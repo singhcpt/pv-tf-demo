@@ -1,0 +1,7 @@
+#Mon Apr 15 12:49:35 EDT 2019
+base.0=/home/plantvillage/tf_demo/gradleBuild/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/plantvillage/tf_demo/gradleBuild/intermediates/dex/debug/mergeProjectDexDebug/out
